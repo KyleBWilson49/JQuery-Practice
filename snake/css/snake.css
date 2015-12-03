@@ -1,0 +1,12 @@
+ul {
+  width: 100px;
+  margin: auto;
+}
+
+li {
+  width: 5px;
+  height: 5px;
+  background: #eee;
+  float: left;
+  outline: 1px solid black;
+}
